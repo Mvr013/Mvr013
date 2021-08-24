@@ -1,10 +1,10 @@
 .. GridAPPS-D
 
 ==========================
-WSU-Restoration Application Documentation
+WSU-Anomaly Detection Application Documentation
 ==========================
 
-.. image:: website.PNG
+.. image:: Anomaly_Framework.JPG
 
 An advanced distribution management system (ADMS) supports grid management and decision support applications to address the growing operational challenges faced by the modern electric power distribution systems while ensuring reliable and resilient operations. In this document, we describe the development of the proposed fault location, isolation, and restoration (FLISR) and it's integration with an open-source standards-based platform for ADMS application development viz. GridAPPS-D, developed by Pacific Northwest National Laboratory (PNNL).
 
