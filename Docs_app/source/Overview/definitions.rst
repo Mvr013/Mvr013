@@ -3,7 +3,7 @@
 Definition of Terms
 -------------------
 
-Anomaly -  defined  as an  observation/measurement  of  an unusual pattern that does not satisfy the physics of the power flow  for  the  given  distribution  system (missing data and bad data).
+Data Anomaly -  defined  as an  observation/measurement  of  an unusual pattern that does not satisfy the physics of the power flow  for  the  given  distribution  system (missing data and bad data).
 
 Platform - Refers to GridAPPS-D platform.
 
