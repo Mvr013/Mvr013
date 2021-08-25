@@ -1,0 +1,6 @@
+javasphinx
+sphinx
+sphinx-autobuild
+sphinx-rtd-theme
+recommonmark
+gitpython
